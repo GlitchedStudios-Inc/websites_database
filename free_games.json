@@ -1,1 +1,14 @@
-
+[
+    {
+        "name": "Game One",
+        "downloadLink": "https://example.com/download/game-one"
+    },
+    {
+        "name": "Game Two",
+        "downloadLink": "https://example.com/download/game-two"
+    },
+    {
+        "name": "Game Three",
+        "downloadLink": "https://example.com/download/game-three"
+    }
+]
